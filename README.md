@@ -1,4 +1,12 @@
+### Java Basics
+https://www.youtube.com/watch?v=b5l5UodFzMo
+
 # Java-Foundantion-1Z0-811 Roadmap
+
+## Study Resources
+
+### Study case for certification Java-Foundantion-1Z0-811
+https://medium.com/@dinhjdev/how-to-prepare-for-the-1z0-811-java-foundations-exam-abd8cb3c7acb
 
 This repository serves as a study guide and roadmap for the **Java Foundations (1Z0-811)** certification, containing practical examples of fundamental language concepts.
 
@@ -44,11 +52,3 @@ Compile and run the desired class from the project root:
 javac -d out src/Main.java
 java -cp out Main
 ```
-
-## Study Resources
-
-### Study case for certification Java-Foundantion-1Z0-811
-https://medium.com/@dinhjdev/how-to-prepare-for-the-1z0-811-java-foundations-exam-abd8cb3c7acb
-
-### Java Basics
-https://www.youtube.com/watch?v=b5l5UodFzMo
