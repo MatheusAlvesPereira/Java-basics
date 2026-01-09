@@ -45,12 +45,12 @@ Navigate to the project root (`C:/Users/mathe/IdeaProjects/Java-basics`) and exe
 
 1.  **Compile**:
     ```bash
-    javac -d out src/ObjectOrientedParadigm/PaymentPlatform.java
+    javac -d out src/ObjectOriented/PaymentPlatform.java
     ```
 
 2.  **Run**:
     ```bash
-    java -cp out ObjectOrientedParadigm.PaymentPlatform
+    java -cp out ObjectOriented.PaymentPlatform
     ```
 
 ## 🧠 Applied OOP Concepts

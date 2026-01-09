@@ -1,4 +1,4 @@
-package ObjectOrientedParadigm;
+package ObjectOriented;
 
 import java.util.UUID;
 
